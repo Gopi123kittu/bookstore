@@ -1,0 +1,88 @@
+{
+  "books": [
+    {
+      "title": "abc ",
+      "author": "asdads",
+      "description": "sample asdsad",
+      "published": "17/05/2022",
+      "pages": "300",
+      "image_path": "https://loremflickr.com/320/240",
+      "location": "stuttgart",
+      "id": 5
+    },
+    {
+      "title": "asdad",
+      "author": "asdadsa",
+      "description": "sdad",
+      "published": "20/05/2023",
+      "pages": "100",
+      "location": "stuttgart",
+      "image_path": "https://loremflickr.com/320/240",
+      "id": 6
+    },
+    {
+      "title": "gopi new book",
+      "author": "gopi",
+      "description": "new asdadsadadsa",
+      "published": "20/05/2023",
+      "pages": "100",
+      "location": "stuttgart",
+      "image_path": "https://loremflickr.com/320/240",
+      "id": 7
+    },
+    {
+      "title": "new book",
+      "author": "aadsad",
+      "description": "skdnasjn",
+      "published": "20/05/2023",
+      "pages": "100",
+      "location": "stuttgart",
+      "image_path": "https://loremflickr.com/320/240",
+      "id": 8
+    },
+    {
+      "title": "new test upated",
+      "author": "aadsad",
+      "description": "skdnasjn",
+      "published": "20/05/2023",
+      "pages": "100",
+      "location": "frankfurt",
+      "image_path": "https://loremflickr.com/320/240",
+      "id": 9
+    },
+    {
+      "title": "changed title",
+      "author": "changed author",
+      "description": "sample asdsad",
+      "published": "17/05/2022",
+      "pages": "300",
+      "location": "stuttgart",
+      "image_path": "https://loremflickr.com/320/240",
+      "id": 10
+    },
+    {
+      "title": "Iphone",
+      "author": "iphone",
+      "description": "iphone",
+      "published": "20/05/2023",
+      "pages": "asdads",
+      "location": "stuttgart",
+      "image_path": "https://loremflickr.com/320/240",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "username": "testuser",
+      "email": "testuser@gmail.com",
+      "password": "testuser123",
+      "id": 1
+    },
+    {
+      "email": "amittest.com",
+      "password": "amit123",
+      "username": "amit",
+      "id": 2
+    }
+  ]
+}
