@@ -1,6 +1,3 @@
-# bookstore
-sample react application wit
-
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
@@ -18,6 +15,10 @@ The books can be viewed in detail. Edit/Delete options are available in view det
 ### Prequisites
 
 ```react```
+
+ After downloading the project run the below command
+
+     npm install
 
 ### How do I get set up? ###
 
